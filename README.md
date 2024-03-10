@@ -25,12 +25,6 @@ This is a simple and interactive terminal-style personal portfolio built using H
 3. Type commands like 'help', 'whois', 'social', 'projects', 'resume', etc., to explore different sections.
 4. External links can be opened in a new tab.
 
-## Direct Links
-
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/****)
-- GitHub: [GitHub Profile](https://github.com/*****)
-- Email: [Email me](mailto:*****@gmail.com)
-- Resume: [Download Resume](*****_Resume.pdf)
 
 ## Sections
 
